@@ -1,0 +1,16 @@
+Fonte: Geoform
+
+Uso no projeto:
+A fonte Geoform foi utilizada como base para a identidade visual do projeto Dockly.
+A tipografia passou por ajustes visuais e estilizações para atender às necessidades
+estéticas e conceituais da marca.
+
+Licença:
+A fonte Geoform possui licença própria.
+Este repositório NÃO distribui os arquivos da fonte (.ttf / .otf).
+O uso da tipografia segue apenas para fins demonstrativos e de portfólio.
+
+Observações:
+Para reproduzir fielmente a identidade visual, é necessário adquirir a fonte
+por meios oficiais junto ao autor ou distribuidor.
+
